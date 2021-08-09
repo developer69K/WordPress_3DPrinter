@@ -1,6 +1,6 @@
-# WordPress_3DPrinter
+# WordPress_3DPrinter SCADA
 
-WordPress Plugin - 3D Printer Interface and Data Collection System
+WordPress Plugin - 3D Printer Interface and Data Collection System (SCADA)
 
 
 // License
